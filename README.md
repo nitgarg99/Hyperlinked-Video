@@ -1,5 +1,4 @@
-# CSCI-576Project
-Hyperlinked Video Project for class
+# Hyperlinked Video
 
 A sample program to display and manipulate images in left and right panels. This has been
 given as java code to create and display a plain white rgb image of the specified format explained in the homework, draws a black line, and then displays it on screen.
